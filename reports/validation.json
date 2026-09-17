@@ -1,0 +1,14 @@
+{
+  "n_permutations": 20,
+  "real_silhouette": 0.09683463631883858,
+  "shuffled_silhouette_mean": 0.00931703200356511,
+  "shuffled_silhouette_max": 0.013398909945626541,
+  "silhouette_p_value": 0.047619047619047616,
+  "real_outcome_eta2": 0.2332847930385199,
+  "shuffled_outcome_eta2_mean": 0.011634280329566229,
+  "shuffled_outcome_eta2_max": 0.025783563413728054,
+  "outcome_eta2_p_value": 0.047619047619047616,
+  "negative_silhouette_districts": 74,
+  "borderline_districts": 240,
+  "n_districts": 704
+}

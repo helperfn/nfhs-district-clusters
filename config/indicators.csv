@@ -1,0 +1,105 @@
+code,short_name,full_name,domain,domain_label,direction,role
+femalepopulationage6yearsandabovewhoeverattendedschool,female_ever_attended_school,Female population age 6 years and above who ever attended school (%),education,Education,1,feature
+populationbelowage15years,pop_below_15,Population below age 15 years (%),population_household,Population & household,-1,feature
+sexratioofthetotalpopulationfemalesper1000males,sex_ratio_total,"Sex ratio of the total population (females per 1,000 males)",population_household,Population & household,1,feature
+sexratioatbirthforchildrenborninthelastfiveyearsfemalesper1000males,sex_ratio_at_birth,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",population_household,Population & household,1,feature
+childrenunderage5yearswhosebirthwasregisteredwiththecivilauthority,birth_registered,Children under age 5 years whose birth was registered with the civil authority (%),population_household,Population & household,1,feature
+deathsinthelast3yearsregisteredwiththecivilauthority,death_registered,Deaths in the last 3 years registered with the civil authority (%),population_household,Population & household,1,feature
+populationlivinginhouseholdswithelectricity,electricity,Population living in households with electricity (%),energy,Energy,1,feature
+populationlivinginhouseholdswithanimproveddrinkingwatersource,improved_water,Population living in households with an improved drinkingwater source (%),wash,Water & sanitation (WASH),1,feature
+populationlivinginhouseholdsthatuseanimprovedsanitationfacility,improved_sanitation,Population living in households that use an improved sanitation facility (%),wash,Water & sanitation (WASH),1,feature
+householdsusingcleanfuelforcooking,clean_cooking_fuel,Households using clean fuel for cooking (%),energy,Energy,1,feature
+householdsusingiodizedsalt,iodized_salt,Households using iodized salt (%),nutrition,Nutrition,1,feature
+householdswithanyusualmembercoveredunderahealthinsurancefinancingscheme,health_insurance,Households with any usual member covered under a health insurance/financing scheme (%),population_household,Population & household,1,feature
+childrenage5yearswhoattendedpreprimaryschoolduringtheschoolyear201920,preprimary_school,Children age 5 years who attended preprimary school during the school year 2019-20 (%),education,Education,1,feature
+womenwhoareliterate,women_literate,Women who are literate (%),education,Education,1,feature
+womenwith10ormoreyearsofschooling,women_10yr_schooling,Women with 10 or more years of schooling (%),education,Education,1,feature
+womenage2024yearsmarriedbeforeage18years,married_before_18,Women age 2024 years married before age 18 years (%),women_empowerment,Women's empowerment & family planning,-1,feature
+birthsinthe5yearsprecedingthesurveythatarethirdorhigherorder,birth_order_3plus,Births in the 5 years preceding the survey that are third or higher order (%),women_empowerment,Women's empowerment & family planning,-1,feature
+womenage1519yearswhowerealreadymothersorpregnantatthetimeofthesurvey,teen_pregnancy,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),women_empowerment,Women's empowerment & family planning,-1,feature
+womenage1524yearswhousehygienicmethodsofprotectionduringtheirmenstrualperiod,hygienic_menstrual_protection,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),women_empowerment,Women's empowerment & family planning,1,feature
+anymethod,fp_any_method,Any method (%),women_empowerment,Women's empowerment & family planning,1,feature
+anymodernmethod,fp_any_modern_method,Any modern method (%),women_empowerment,Women's empowerment & family planning,1,feature
+femalesterilization,fp_female_sterilization,Female sterilization (%),women_empowerment,Women's empowerment & family planning,-1,drop
+malesterilization,fp_male_sterilization,Male sterilization (%),women_empowerment,Women's empowerment & family planning,1,drop
+iudppiud,fp_iud,IUD/PPIUD (%),women_empowerment,Women's empowerment & family planning,1,drop
+injectables,fp_injectables,Injectables (%),women_empowerment,Women's empowerment & family planning,1,drop
+pill,fp_pill,Pill (%),women_empowerment,Women's empowerment & family planning,1,drop
+condom,fp_condom,Condom (%),women_empowerment,Women's empowerment & family planning,1,drop
+totalunmetneed,fp_unmet_need_total,Total unmet need (%),women_empowerment,Women's empowerment & family planning,-1,feature
+unmetneedforspacing,fp_unmet_need_spacing,Unmet need for spacing (%),women_empowerment,Women's empowerment & family planning,-1,feature
+currentusersevertoldaboutsideeffectsofcurrentmethod,fp_told_side_effects,Current users ever told about side effects of current method (%),women_empowerment,Women's empowerment & family planning,1,feature
+healthworkerevertalkedtofemalenonusersaboutfamilyplanning,fp_worker_talked_to_nonusers,Health worker ever talked to female non-users about family planning (%),women_empowerment,Women's empowerment & family planning,1,feature
+motherswhohadanantenatalcheckupinthefirsttrimester,anc_first_trimester,Mothers who had an antenatal checkup in the first trimester (%),maternal_health,Maternal health,1,feature
+motherswhohadatleast4antenatalcarevisits,anc_4plus_visits,Mothers who had at least 4 antenatal care visits (%),maternal_health,Maternal health,1,feature
+motherswhoselastbirthwasprotectedagainstneonataltetanus,tetanus_protected_birth,Mothers whose last birth was protected against neonatal tetanus (%),maternal_health,Maternal health,1,feature
+motherswhoconsumedironfolicacidfor100daysormorewhentheywerepregnant,ifa_100_days,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),maternal_health,Maternal health,1,feature
+motherswhoconsumedironfolicacidfor180daysormorewhentheywerepregnant,ifa_180_days,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),maternal_health,Maternal health,1,feature
+registeredpregnanciesforwhichthemotherreceivedamotherandchildprotectionmcpcard,mcp_card_received,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),maternal_health,Maternal health,1,feature
+motherswhoreceivedpostnatalcarefromadoctornurselhvanmmidwifeotherhealthpersonnelwithin2daysofdelivery,pnc_mother_2days,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),maternal_health,Maternal health,1,feature
+childrenwhoreceivedpostnatalcarefromadoctornurselhvanmmidwifeotherhealthpersonnelwithin2daysofdelivery,pnc_newborn_2days,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),maternal_health,Maternal health,1,feature
+childrenbornathomewhoweretakentoahealthfacilityforacheckupwithin24hoursofbirth,home_birth_checkup_24h,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),maternal_health,Maternal health,1,feature
+averageoutofpocketexpenditureperdeliveryinapublichealthfacilityrs,oop_delivery_public_rs,Average out-of-pocket expenditure per delivery in a public health facility (Rs),maternal_health,Maternal health,-1,feature
+institutionalbirths,institutional_births,Institutional births (%),maternal_health,Maternal health,1,feature
+institutionalbirthsinpublicfacility,institutional_births_public,Institutional births in public facility (%),maternal_health,Maternal health,1,feature
+homebirthsthatwereconductedbyskilledhealthpersonnel,home_births_skilled,Home births that were conducted by skilled health personnel (%),maternal_health,Maternal health,1,feature
+birthsattendedbyskilledhealthpersonnel,skilled_birth_attendance,Births attended by skilled health personnel (%),maternal_health,Maternal health,1,feature
+birthsdeliveredbycaesareansection,caesarean_total,Births delivered by caesarean section (%),maternal_health,Maternal health,-1,feature
+birthsinaprivatehealthfacilitythatweredeliveredbycaesareansection,caesarean_private,Births in a private health facility that were delivered by caesarean section (%),maternal_health,Maternal health,-1,feature
+birthsinapublichealthfacilitythatweredeliveredbycaesareansection,caesarean_public,Births in a public health facility that were delivered by caesarean section (%),maternal_health,Maternal health,-1,feature
+childrenage1223monthsfullyvaccinatedbasedoninformationfromeithervaccinationcardormothersrecall,fully_vaccinated_card_or_recall,Children age 12-23 months fully vaccinated based on information from either vaccination card or mothers recall (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthsfullyvaccinatedbasedoninformationfromvaccinationcardonly,fully_vaccinated_card_only,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceived3dosesofpentaordptvaccine,dpt3_penta3,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceived3dosesofpentaorhepatitisbvaccine,hepb3_penta3,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceived3dosesofpoliovaccine,polio3,Children age 12-23 months who have received 3 doses of polio vaccine (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceived3dosesofrotavirusvaccine,rotavirus3,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceivedbcg,bcg,Children age 12-23 months who have received BCG (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhohavereceivedthefirstdoseofmeaslescontainingvaccinemcv,measles_dose1,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage2435monthswhohavereceivedaseconddoseofmeaslescontainingvaccinemcv,measles_dose2,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhoreceivedmostoftheirvaccinationsinapublichealthfacility,vaccinated_public_facility,Children age 12-23 months who received most of their vaccinations in a public health facility (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenage1223monthswhoreceivedmostoftheirvaccinationsinaprivatehealthfacility,vaccinated_private_facility,Children age 12-23 months who received most of their vaccinations in a private health facility (%),child_health_immunisation,Child health & immunisation,-1,feature
+childrenage935monthswhoreceivedavitaminadoseinthelast6months,vitamin_a_dose,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenwithdiarrhoeainthe2weeksprecedingthesurveytakentoahealthfacilityorhealthprovider,diarrhoea_care_sought,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenwithdiarrhoeainthe2weeksprecedingthesurveywhoreceivedoralrehydrationsaltsors,diarrhoea_ors,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenwithdiarrhoeainthe2weeksprecedingthesurveywhoreceivedzinc,diarrhoea_zinc,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),child_health_immunisation,Child health & immunisation,1,feature
+childrenwithfeverorsymptomsofariinthe2weeksprecedingthesurveytakentoahealthfacilityorhealthprovider,ari_fever_care_sought,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),child_health_immunisation,Child health & immunisation,1,feature
+prevalenceofdiarrhoeainthe2weeksprecedingthesurvey,diarrhoea_prevalence,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),child_health_immunisation,Child health & immunisation,-1,feature
+prevalenceofsymptomsofacuterespiratoryinfectionariinthe2weeksprecedingthesurvey,ari_prevalence,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),child_health_immunisation,Child health & immunisation,-1,feature
+childrenunderage3yearsbreastfedwithinonehourofbirth,early_breastfeeding_1h,Children under age 3 years breastfed within one hour of birth (%),nutrition,Nutrition,1,feature
+childrenunderage6monthsexclusivelybreastfed,exclusive_breastfeeding,Children under age 6 months exclusively breastfed (%),nutrition,Nutrition,1,feature
+childrenage68monthsreceivingsolidorsemisolidfoodandbreastmilk,complementary_feeding_6_8m,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),nutrition,Nutrition,1,feature
+breastfeedingchildrenage623monthsreceivinganadequatediet,adequate_diet_breastfed,Breastfeeding children age 6-23 months receiving an adequate diet (%),nutrition,Nutrition,1,feature
+nonbreastfeedingchildrenage623monthsreceivinganadequatediet,adequate_diet_nonbreastfed,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),nutrition,Nutrition,1,feature
+totalchildrenage623monthsreceivinganadequatediet,adequate_diet_total,Total children age 6-23 months receiving an adequate diet (%),nutrition,Nutrition,1,feature
+childrenunder5yearswhoarestuntedheightforage,child_stunted,Children under 5 years who are stunted (height for age) (%),nutrition,Nutrition,-1,outcome
+childrenunder5yearswhoarewastedweightforheight,child_wasted,Children under 5 years who are wasted (weight for height) (%),nutrition,Nutrition,-1,outcome
+childrenunder5yearswhoareseverelywastedweightforheight,child_severely_wasted,Children under 5 years who are severely wasted (weight for height) (%),nutrition,Nutrition,-1,outcome
+childrenunder5yearswhoareunderweightweightforage,child_underweight,Children under 5 years who are underweight (weight for age) (%),nutrition,Nutrition,-1,outcome
+childrenunder5yearswhoareoverweightweightforheight20,child_overweight,Children under 5 years who are overweight (weight fo rheight)20 (%),nutrition,Nutrition,-1,outcome
+womenwhosebodymassindexbmiisbelownormalbmi18,women_bmi_below_normal,Women whose Body Mass Index (BMI) is below normal (BMI <18),nutrition,Nutrition,-1,feature
+womenwhoareoverweightorobese,women_overweight_obese,Women who are overweight or obese,nutrition,Nutrition,-1,feature
+womenwhohavehighriskwaisttohipratio,women_high_waist_hip_ratio,Women who have high risk waisttohip ratio,nutrition,Nutrition,-1,feature
+childrenage659monthswhoareanaemic,children_anaemic,Children age 6-59 months who are anaemic,anaemia,Anaemia,-1,outcome
+allwomenage1519yearswhoareanaemic,women_15_19_anaemic,All women age 15-19 years who are anaemic (%),anaemia,Anaemia,-1,outcome
+allwomenage1549yearswhoareanaemic,women_15_49_anaemic,All women age 15-49 years who are anaemic (%),anaemia,Anaemia,-1,outcome
+nonpregnantwomenage1549yearswhoareanaemic,nonpregnant_women_anaemic,Nonpregnant women age 15-49 years who are anaemic,anaemia,Anaemia,-1,outcome
+pregnantwomenage1549yearswhoareanaemic,pregnant_women_anaemic,Pregnant women age 15-49 years who are anaemic,anaemia,Anaemia,-1,outcome
+femalebloodsugarlevelhigh141160mgdl,women_blood_sugar_high,Female Blood sugar level  high (141-160 mg/dl) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+femalebloodsugarlevelveryhigh160mgdl,women_blood_sugar_very_high,Female Blood sugar level  very high (>160 mg/dl) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+femalebloodsugarlevelhighorveryhigh140mgdlortakingmedicinetocontrolbloodsugarlevel,women_blood_sugar_high_or_medicated,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+malebloodsugarlevelhigh141160mgdl,men_blood_sugar_high,Male Blood sugar level  high (141-160 mg/dl) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+malebloodsugarlevelveryhigh160mgdl,men_blood_sugar_very_high,Male Blood sugar level  very high (>160 mg/dl) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+malebloodsugarlevelhighorveryhigh140mgdlortakingmedicinetocontrolbloodsugarlevel,men_blood_sugar_high_or_medicated,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+femalemildlyelevatedbloodpressuresystolic140159mmofhgandordiastolic9099mmofhg,women_bp_mildly_elevated,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+femalemoderatelyorseverelyelevatedbloodpressure,women_bp_moderate_severe,Female Moderately or severely elevated blood pressure (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+femaleelevatedbloodpressureortakingmedicinetocontrolbloodpressure,women_bp_elevated_or_medicated,Female Elevated blood pressure or taking medicine to control blood pressure (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+malemildlyelevatedbloodpressuresystolic140159mmofhgandordiastolic9099mmofhg,men_bp_mildly_elevated,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+malemoderatelyorseverelyelevatedbloodpressure,men_bp_moderate_severe,Male Moderately or severely elevated blood pressure (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+maleelevatedbloodpressureortakingmedicinetocontrolbloodpressure,men_bp_elevated_or_medicated,Male Elevated blood pressure or taking medicine to control blood pressure (%),ncd,"NCDs (blood sugar, BP, screening)",-1,feature
+everundergoneabreastexaminationforbreastcancer,breast_cancer_exam,Ever undergone a breast examination for breast cancer (%),ncd,"NCDs (blood sugar, BP, screening)",1,feature
+everundergoneascreeningtestforcervicalcancer,cervical_cancer_screening,Ever undergone a screening test for cervical cancer (%),ncd,"NCDs (blood sugar, BP, screening)",1,feature
+everundergoneanoralcavityexaminationfororalcancer,oral_cancer_exam,Ever undergone an oral cavity examination for oral cancer (%),ncd,"NCDs (blood sugar, BP, screening)",1,feature
+menage15yearsandabovewhouseanykindoftobacco,men_tobacco_use,Men age 15 years and above who use any kind of tobacco (%),tobacco_alcohol,Tobacco & alcohol,-1,feature
+menage15yearsandabovewhoconsumealcohol,men_alcohol_use,Men age 15 years and above who consume alcohol (%),tobacco_alcohol,Tobacco & alcohol,-1,feature
+womenage15yearsandabovewhouseanykindoftobacco,women_tobacco_use,Women age 15 years and above who use any kind of tobacco (%),tobacco_alcohol,Tobacco & alcohol,-1,feature
+womenage15yearsandabovewhoconsumealcohol,women_alcohol_use,Women age 15 years and above who consume alcohol (%),tobacco_alcohol,Tobacco & alcohol,-1,feature

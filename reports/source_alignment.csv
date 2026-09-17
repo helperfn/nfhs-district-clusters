@@ -1,0 +1,105 @@
+item,short_name,full_name,mean_abs_diff,runner_up_diff
+1,female_ever_attended_school,Female population age 6 years and above who ever attended school (%),0.0051079136690647545,4.207050359712231
+2,pop_below_15,Population below age 15 years (%),0.009496402877697844,7.639064748201438
+3,sex_ratio_total,"Sex ratio of the total population (females per 1,000 males)",0.06906474820143885,121.68992805755396
+4,sex_ratio_at_birth,"Sex ratio at birth for children born in the last five years (females per 1,000 males)",0.046897546897546896,121.23232323232324
+5,birth_registered,Children under age 5 years whose birth was registered with the civil authority (%),0.0058273381294963985,6.220719424460432
+6,death_registered,Deaths in the last 3 years registered with the civil authority (%),0.006772334293948131,12.86037463976945
+7,electricity,Population living in households with electricity (%),0.001366906474820148,3.776474820143885
+8,improved_water,Population living in households with an improved drinkingwater source (%),0.0017985611510791368,5.904100719424461
+9,improved_sanitation,Population living in households that use an improved sanitation facility (%),0.01273381294964028,8.666187050359712
+10,clean_cooking_fuel,Households using clean fuel for cooking (%),0.010143884892086332,18.219424460431654
+11,iodized_salt,Households using iodized salt (%),0.0010071942446043206,4.350575539568346
+12,health_insurance,Households with any usual member covered under a health insurance/financing scheme (%),0.020359712230215835,18.943741007194244
+13,preprimary_school,Children age 5 years who attended preprimary school during the school year 2019-20 (%),0.0015173410404624274,7.513800578034682
+14,women_literate,Women who are literate (%),0.010935251798561153,4.2230935251798565
+15,women_10yr_schooling,Women with 10 or more years of schooling (%),0.01251798561151079,15.101654676258992
+16,married_before_18,Women age 2024 years married before age 18 years (%),0.014892086330935254,8.651654676258993
+17,birth_order_3plus,Births in the 5 years preceding the survey that are third or higher order (%),0.0015107913669064746,1.8020863309352515
+18,teen_pregnancy,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.006187050359712229,3.6688489208633084
+19,hygienic_menstrual_protection,Women age 15-24 years who use hygienic methods of protection during their menstrual period (%),0.01172661870503597,10.942733812949639
+20,fp_any_method,Any method (%),0.011870503597122313,10.844748201438849
+21,fp_any_modern_method,Any modern method (%),0.01323741007194245,10.869856115107913
+22,fp_female_sterilization,Female sterilization (%),0.007338129496402875,16.52791366906475
+23,fp_male_sterilization,Male sterilization (%),7.194244604316547e-05,0.927410071942446
+24,fp_iud,IUD/PPIUD (%),0.0012949640287769782,2.4384892086330936
+25,fp_pill,Pill (%),0.00028776978417266214,4.619568345323741
+26,fp_condom,Condom (%),0.004676258992805757,6.377553956834531
+27,fp_injectables,Injectables (%),0.0009352517985611511,0.9264028776978416
+28,fp_unmet_need_total,Total unmet need (%),0.004316546762589928,4.25978417266187
+29,fp_unmet_need_spacing,Unmet need for spacing (%),0.00028776978417266214,2.682661870503597
+30,fp_worker_talked_to_nonusers,Health worker ever talked to female non-users about family planning (%),0.012014388489208635,9.120863309352519
+31,fp_told_side_effects,Current users ever told about side effects of current method (%),0.012210982658959542,14.092413294797689
+32,anc_first_trimester,Mothers who had an antenatal checkup in the first trimester (%),0.012949640287769784,10.189352517985611
+33,anc_4plus_visits,Mothers who had at least 4 antenatal care visits (%),0.013093525179856107,14.936115107913666
+34,tetanus_protected_birth,Mothers whose last birth was protected against neonatal tetanus (%),0.006115107913669065,6.181654676258993
+35,ifa_100_days,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),0.01985611510791367,15.827410071942447
+36,ifa_180_days,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),0.01251798561151079,12.385683453237409
+37,mcp_card_received,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),0.0033812949640287687,3.771726618705036
+38,pnc_mother_2days,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),0.008933717579250725,3.130619596541787
+39,oop_delivery_public_rs,Average out-of-pocket expenditure per delivery in a public health facility (Rs),0.1644640234948605,2481.569750367107
+40,home_birth_checkup_24h,Children born at home who were taken to a health facility for a checkup within 24 hours of birth (%),0.0026785714285714277,3.6489285714285717
+41,pnc_newborn_2days,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),0.00928057553956835,3.1454676258992804
+42,institutional_births,Institutional births (%),0.01230215827338129,2.890071942446043
+43,institutional_births_public,Institutional births in public facility (%),0.0019424460431654697,14.964820143884891
+44,home_births_skilled,Home births that were conducted by skilled health personnel (%),0.0044604316546762585,2.0279856115107915
+45,skilled_birth_attendance,Births attended by skilled health personnel (%),0.009640287769784176,2.8681294964028776
+46,caesarean_total,Births delivered by caesarean section (%),0.00539568345323741,6.127913669064748
+47,caesarean_private,Births in a private health facility that were delivered by caesarean section (%),0.006249999999999998,17.093658088235294
+48,caesarean_public,Births in a public health facility that were delivered by caesarean section (%),0.0024460431654676263,6.133165467625898
+49,fully_vaccinated_card_or_recall,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (%),0.010923753665689154,3.8277126099706744
+50,fully_vaccinated_card_only,Children age 12-23 months fully vaccinated based on information from vaccination card only (%),0.009435364041604746,5.564115898959881
+51,bcg,Children age 12-23 months who have received BCG (%),0.003152492668621688,4.062683284457478
+52,polio3,Children age 12-23 months who have received 3 doses of polio vaccine (%),0.010263929618768328,3.8201612903225803
+53,dpt3_penta3,Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),0.013489736070381236,2.6794721407624635
+54,measles_dose1,Children age 12-23 months who have received the first dose of measlescontaining vaccine (MCV) (%),0.013489736070381215,2.6739002932551323
+55,measles_dose2,Children age 24-35 months who have received a second dose of measlescontaining vaccine (MCV) (%),0.013489736070381226,11.778445747800586
+56,rotavirus3,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),0.01239002932551318,28.26986803519062
+57,hepb3_penta3,Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),0.01414956011730206,2.8838709677419354
+58,vitamin_a_dose,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),0.015778097982708936,12.296253602305477
+59,vaccinated_public_facility,Children age 12-23 months who received most of their vaccinations in a public health facility (%),0.0006627393225331411,3.9943298969072165
+60,vaccinated_private_facility,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.000662739322533137,2.925036818851252
+61,diarrhoea_prevalence,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.004172661870503597,3.3780575539568347
+62,diarrhoea_ors,Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),0.0,12.693364928909954
+63,diarrhoea_zinc,Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),0.0,12.126540284360189
+64,diarrhoea_care_sought,Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),0.0,10.730805687203791
+65,ari_prevalence,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0007194244604316547,1.8606474820143883
+66,ari_fever_care_sought,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),0.020335429769392024,13.00607966457023
+67,early_breastfeeding_1h,Children under age 3 years breastfed within one hour of birth (%),0.003381294964028779,15.1031654676259
+68,exclusive_breastfeeding,Children under age 6 months exclusively breastfed (%),0.009496567505720838,12.044050343249427
+69,complementary_feeding_6_8m,Children age 6-8 months receiving solid or semisolid food and breastmilk (%),0.0,12.669354838709676
+70,adequate_diet_breastfed,Breastfeeding children age 6-23 months receiving an adequate diet (%),0.002898550724637681,1.4278260869565218
+71,adequate_diet_nonbreastfed,Nonbreastfeeding children age 6-23 months receiving an adequate diet (%),0.0,3.445
+72,adequate_diet_total,Total children age 6-23 months receiving an adequate diet (%),0.004034582132564843,1.4985590778097984
+73,child_stunted,Children under 5 years who are stunted (height for age) (%),0.006546762589928064,6.422517985611511
+74,child_wasted,Children under 5 years who are wasted (weight for height) (%),0.009496402877697839,5.901870503597121
+75,child_severely_wasted,Children under 5 years who are severely wasted (weight for height) (%),0.012374100719424462,3.4868345323741
+76,child_underweight,Children under 5 years who are underweight (weight for age) (%),0.0028057553956834574,6.419496402877698
+77,child_overweight,Children under 5 years who are overweight (weight fo rheight)20 (%),0.00460431654676259,2.830071942446043
+78,women_bmi_below_normal,Women whose Body Mass Index (BMI) is below normal (BMI <18),0.005899280575539571,5.898273381294963
+79,women_overweight_obese,Women who are overweight or obese,0.0056834532374100705,7.1617266187050355
+80,women_high_waist_hip_ratio,Women who have high risk waisttohip ratio,0.0017985611510791368,14.262517985611511
+81,children_anaemic,Children age 6-59 months who are anaemic,0.002517985611510791,10.401798561151077
+82,nonpregnant_women_anaemic,Nonpregnant women age 15-49 years who are anaemic,0.0006474820143884728,0.3810791366906475
+83,pregnant_women_anaemic,Pregnant women age 15-49 years who are anaemic,0.018472468916518648,9.119449378330373
+84,women_15_49_anaemic,All women age 15-49 years who are anaemic (%),0.0009352517985611593,0.3794964028776979
+85,women_15_19_anaemic,All women age 15-19 years who are anaemic (%),0.005251798561151088,4.356187050359712
+86,women_blood_sugar_high,Female Blood sugar level  high (141-160 mg/dl) (%),0.00021582733812949563,1.3576258992805756
+87,women_blood_sugar_very_high,Female Blood sugar level  very high (>160 mg/dl) (%),0.0015107913669064746,1.3651079136690647
+88,women_blood_sugar_high_or_medicated,Female Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),0.001223021582733815,2.537841726618705
+89,men_blood_sugar_high,MaleBlood sugar level  high (141-160 mg/dl) (%),0.0012230215827338125,1.3561870503597124
+90,men_blood_sugar_very_high,Male Blood sugar level  very high (>160 mg/dl) (%),0.002517985611510791,1.369136690647482
+91,men_blood_sugar_high_or_medicated,Male Blood sugar level  high or very high (>140 mg/dl) or taking medicine to control blood sugar level (%),0.0011510791366906485,2.5402158273381295
+92,women_bp_mildly_elevated,Female Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),0.001079136690647482,3.6965467625899278
+93,women_bp_moderate_severe,Female Moderately or severely elevated blood pressure (%),0.00028776978417266214,1.2601438848920865
+94,women_bp_elevated_or_medicated,Female Elevated blood pressure or taking medicine to control blood pressure (%),0.0004316546762589938,3.9231654676259
+95,men_bp_mildly_elevated,Male Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),0.0012949640287769789,3.6941726618705033
+96,men_bp_moderate_severe,Male Moderately or severely elevated blood pressure (%),0.00028776978417266214,1.2601438848920865
+97,men_bp_elevated_or_medicated,Male Elevated blood pressure or taking medicine to control blood pressure (%),0.03841726618705035,3.8889208633093526
+98,cervical_cancer_screening,Ever undergone a screening test for cervical cancer (%),0.0,0.9725179856115109
+99,breast_cancer_exam,Ever undergone a breast examination for breast cancer (%),0.00014388489208633093,0.7245323741007195
+100,oral_cancer_exam,Ever undergone an oral cavity examination for oral cancer (%),0.0006474820143884892,0.7253237410071943
+101,women_tobacco_use,Women age 15 years and above who use any kind of tobacco (%),0.0046829971181556185,8.03393371757925
+102,men_tobacco_use,Men age 15 years and above who use any kind of tobacco (%),0.0033093525179856073,11.927266187050359
+103,women_alcohol_use,Women age 15 years and above who consume alcohol (%),0.003309352517985611,2.948992805755396
+104,men_alcohol_use,Men age 15 years and above who consume alcohol (%),0.009870317002881835,10.045035971223022

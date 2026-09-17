@@ -1,0 +1,573 @@
+state,district,cluster_2015,cluster_2019,n_indicators_available
+Andaman Nicobar Islands,Nicobar,7,3,50
+Andaman Nicobar Islands,North  & Middle Andaman,5,2,51
+Andaman Nicobar Islands,South Andaman,2,2,51
+Andhra Pradesh,Anantapur,0,0,51
+Andhra Pradesh,Chittoor,0,0,51
+Andhra Pradesh,East Godavari,0,0,51
+Andhra Pradesh,Guntur,0,0,49
+Andhra Pradesh,Krishna,0,0,49
+Andhra Pradesh,Kurnool,6,0,51
+Andhra Pradesh,Prakasam,0,0,50
+Andhra Pradesh,Srikakulam,0,0,51
+Andhra Pradesh,Sri Potti Sriramulu Nellore,0,0,49
+Andhra Pradesh,Visakhapatnam,0,0,50
+Andhra Pradesh,Vizianagaram,0,0,50
+Andhra Pradesh,West Godavari,0,0,49
+Andhra Pradesh,Y.S.R.,0,0,51
+Arunachal Pradesh,Anjaw,1,1,51
+Arunachal Pradesh,Changlang,1,1,51
+Arunachal Pradesh,Dibang Valley,1,1,50
+Arunachal Pradesh,East Kameng,1,1,48
+Arunachal Pradesh,Lower Dibang Valley,1,1,50
+Arunachal Pradesh,Lower Subansiri,1,1,48
+Arunachal Pradesh,Papum Pare,1,1,51
+Arunachal Pradesh,Tawang,1,1,49
+Arunachal Pradesh,Upper Siang,1,1,42
+Arunachal Pradesh,Upper Subansiri,1,1,50
+Arunachal Pradesh,West Kameng,1,1,50
+Assam,Baksa,7,7,51
+Assam,Barpeta,6,7,51
+Assam,Bongaigaon,7,7,51
+Assam,Cachar,6,7,51
+Assam,Chirang,1,4,51
+Assam,Darrang,6,7,51
+Assam,Dhemaji,6,4,51
+Assam,Dibrugarh,7,7,51
+Assam,Dima Hasao,1,7,51
+Assam,Goalpara,6,4,51
+Assam,Golaghat,7,7,51
+Assam,Hailakandi,6,7,51
+Assam,Kamrup,7,7,51
+Assam,Kamrup Metropolitan,2,7,51
+Assam,Karimganj,6,7,51
+Assam,Kokrajhar,7,7,51
+Assam,Lakhimpur,7,4,51
+Assam,Morigaon,6,4,51
+Assam,Nalbari,7,7,51
+Assam,Tinsukia,6,7,51
+Assam,Udalguri,7,7,50
+Bihar,Araria,6,6,51
+Bihar,Arwal,6,6,51
+Bihar,Aurangabad,6,6,51
+Bihar,Banka,6,6,51
+Bihar,Begusarai,6,6,51
+Bihar,Bhagalpur,6,6,51
+Bihar,Bhojpur,6,6,51
+Bihar,Buxer,6,6,51
+Bihar,Darbhanga,6,6,51
+Bihar,Gaya,6,6,51
+Bihar,Gopalganj,6,6,51
+Bihar,Jamui,6,6,51
+Bihar,Jehanabad,6,6,51
+Bihar,Kaimur (Bhabua),6,6,51
+Bihar,Katihar,6,6,51
+Bihar,Khagaria,6,6,51
+Bihar,Kishanganj,6,6,51
+Bihar,Lakhisarai,6,6,51
+Bihar,Madhepura,6,6,51
+Bihar,Madhubani,6,6,51
+Bihar,Munger,6,7,51
+Bihar,Muzaffarpur,6,6,51
+Bihar,Nalanda,6,6,51
+Bihar,Nawada,6,6,51
+Bihar,Pashchim Champaran,6,6,50
+Bihar,Patna,6,6,51
+Bihar,Purba Champaran,6,6,51
+Bihar,Purnia,6,6,51
+Bihar,Rohtas,6,6,51
+Bihar,Saharsa,6,6,51
+Bihar,Samastipur,6,6,51
+Bihar,Saran,6,6,50
+Bihar,Sheikhpura,6,6,51
+Bihar,Sheohar,6,6,51
+Bihar,Sitamarhi,6,6,51
+Bihar,Siwan,6,6,51
+Bihar,Supaul,6,6,51
+Bihar,Vaishali,6,6,51
+Chhattisgarh,Bijapur,4,6,51
+Chhattisgarh,Dhamtari,4,4,51
+Chhattisgarh,Janjgir - Champa,6,4,51
+Chhattisgarh,Jashpur,6,4,51
+Chhattisgarh,Kabeerdham,6,4,51
+Chhattisgarh,Korba,6,1,51
+Chhattisgarh,Koriya,6,4,51
+Chhattisgarh,Mahasamund,4,4,51
+Chhattisgarh,Narayanpur,6,4,51
+Chhattisgarh,Raigarh,6,4,51
+Chhattisgarh,Rajnandgaon,4,4,51
+Chhattisgarh,Uttar Bastar Kanker,4,4,51
+Dadra Nagar Haveli Daman Diu,Dadra & Nagar Haveli,7,5,51
+Dadra Nagar Haveli Daman Diu,Daman,7,7,51
+Dadra Nagar Haveli Daman Diu,Diu,7,5,50
+Goa,North Goa,3,3,50
+Goa,South Goa,2,3,51
+Gujarat,Amreli,7,7,50
+Gujarat,Anand,7,7,51
+Gujarat,Banaskantha,6,7,50
+Gujarat,Bharuch,7,7,51
+Gujarat,Dahod,6,4,51
+Gujarat,Gandhinagar,7,7,50
+Gujarat,Kachchh,7,4,50
+Gujarat,Mahesana,7,7,50
+Gujarat,Narmada,6,4,51
+Gujarat,Navsari,7,5,51
+Gujarat,Patan,7,7,50
+Gujarat,Porbandar,7,5,51
+Gujarat,Surat,7,2,51
+Gujarat,Tapi,4,5,51
+Gujarat,The Dangs,6,4,51
+Gujarat,Valsad,7,2,51
+Haryana,Ambala,5,2,51
+Haryana,Faridabad,1,2,51
+Haryana,Fatehabad,4,5,51
+Haryana,Gurgaon,7,7,51
+Haryana,Hisar,4,5,51
+Haryana,Jhajjar,7,5,51
+Haryana,Jind,5,5,51
+Haryana,Kaithal,4,5,51
+Haryana,Karnal,5,5,51
+Haryana,Kurukshetra,5,2,51
+Haryana,Mahendragarh,4,5,51
+Haryana,Mewat,6,6,51
+Haryana,Palwal,1,4,51
+Haryana,Panchkula,5,2,51
+Haryana,Panipat,4,2,51
+Haryana,Rewari,7,2,51
+Haryana,Rohtak,7,2,51
+Haryana,Sirsa,4,5,51
+Haryana,Sonipat,4,5,51
+Haryana,Yamunanagar,5,2,51
+Himachal Pradesh,Bilaspur,7,5,51
+Himachal Pradesh,Chamba,1,5,50
+Himachal Pradesh,Hamirpur,7,2,51
+Himachal Pradesh,Kangra,7,2,50
+Himachal Pradesh,Kinnaur,5,5,50
+Himachal Pradesh,Kullu,7,5,51
+Himachal Pradesh,Lahul and Spiti,7,5,50
+Himachal Pradesh,Mandi,4,5,51
+Himachal Pradesh,Shimla,5,5,51
+Himachal Pradesh,Sirmaur,7,5,51
+Himachal Pradesh,Solan,2,5,51
+Himachal Pradesh,Una,7,2,51
+Jammu Kashmir,Anantnag,6,5,51
+Jammu Kashmir,Badgam,5,5,51
+Jammu Kashmir,Bandipore,6,5,51
+Jammu Kashmir,Baramula,5,5,51
+Jammu Kashmir,Doda,1,1,51
+Jammu Kashmir,Ganderbal,5,5,51
+Jammu Kashmir,Jammu,2,5,51
+Jammu Kashmir,Kathua,4,5,51
+Jammu Kashmir,Kishtwar,6,5,51
+Jammu Kashmir,Kulgam,5,5,51
+Jammu Kashmir,Kupwara,6,5,51
+Jammu Kashmir,Pulwama,5,5,51
+Jammu Kashmir,Punch,6,5,51
+Jammu Kashmir,Rajouri,1,5,51
+Jammu Kashmir,Ramban,6,4,51
+Jammu Kashmir,Reasi,6,4,51
+Jammu Kashmir,Samba,7,5,51
+Jammu Kashmir,Shupiyan,5,5,51
+Jammu Kashmir,Srinagar,5,5,51
+Jammu Kashmir,Udhampur,4,5,51
+Jharkhand,Bokaro,6,6,51
+Jharkhand,Chatra,6,6,51
+Jharkhand,Deoghar,6,6,51
+Jharkhand,Dhanbad,6,6,51
+Jharkhand,Dumka,6,6,51
+Jharkhand,Garhwa,6,6,51
+Jharkhand,Giridih,6,6,51
+Jharkhand,Godda,6,6,51
+Jharkhand,Gumla,6,4,51
+Jharkhand,Hazaribagh,6,6,51
+Jharkhand,Jamtara,6,6,51
+Jharkhand,Khunti,6,6,51
+Jharkhand,Kodarma,6,6,51
+Jharkhand,Latehar,6,6,51
+Jharkhand,Lohardaga,6,4,51
+Jharkhand,Pakur,6,6,51
+Jharkhand,Palamu,6,6,51
+Jharkhand,Pashchimi Singhbhum,6,6,51
+Jharkhand,Purbi Singhbhum,7,5,51
+Jharkhand,Ramgarh,6,4,51
+Jharkhand,Ranchi,6,4,51
+Jharkhand,Sahibganj,6,6,51
+Jharkhand,Saraikela-Kharsawan,6,4,51
+Jharkhand,Simdega,6,6,51
+Karnataka,Bagalkot,7,4,51
+Karnataka,Bangalore,2,2,51
+Karnataka,Bangalore Rural,7,2,51
+Karnataka,Belgaum,4,5,51
+Karnataka,Bellary,7,5,51
+Karnataka,Bidar,7,4,51
+Karnataka,Bijapur,6,7,51
+Karnataka,Chamarajanagar,7,2,51
+Karnataka,Chikkaballapura,7,2,51
+Karnataka,Chikmagalur,7,2,50
+Karnataka,Chitradurga,7,2,51
+Karnataka,Dakshina Kannada,7,2,51
+Karnataka,Davanagere,0,2,51
+Karnataka,Dharwad,7,2,51
+Karnataka,Gadag,7,7,51
+Karnataka,Gulbarga,6,7,51
+Karnataka,Hassan,7,2,51
+Karnataka,Haveri,7,5,51
+Karnataka,Kodagu,7,2,51
+Karnataka,Kolar,5,2,51
+Karnataka,Koppal,6,4,51
+Karnataka,Mandya,7,2,51
+Karnataka,Mysore,7,2,51
+Karnataka,Raichur,6,6,51
+Karnataka,Ramanagara,7,2,51
+Karnataka,Shimoga,7,2,51
+Karnataka,Tumkur,7,2,51
+Karnataka,Udupi,3,2,49
+Karnataka,Uttara Kannada,7,2,51
+Karnataka,Yadgir,6,4,51
+Kerala,Alappuzha,3,3,42
+Kerala,Ernakulam,3,3,49
+Kerala,Idukki,3,3,42
+Kerala,Kannur,3,3,50
+Kerala,Kasaragod,3,3,50
+Kerala,Kollam,3,3,50
+Kerala,Kottayam,3,3,51
+Kerala,Kozhikode,3,3,50
+Kerala,Malappuram,3,3,51
+Kerala,Palakkad,3,3,50
+Kerala,Pathanamthitta,3,3,49
+Kerala,Thiruvananthapuram,3,3,51
+Kerala,Thrissur,3,3,49
+Kerala,Wayanad,3,2,51
+Ladakh,Kargil,4,5,51
+Ladakh,Leh(Ladakh),5,5,51
+Madhya Pradesh,Alirajpur,6,4,50
+Madhya Pradesh,Anuppur,6,4,51
+Madhya Pradesh,Ashoknagar,6,4,51
+Madhya Pradesh,Balaghat,6,4,51
+Madhya Pradesh,Barwani,6,4,51
+Madhya Pradesh,Betul,6,4,51
+Madhya Pradesh,Bhind,6,7,51
+Madhya Pradesh,Bhopal,7,2,51
+Madhya Pradesh,Burhanpur,6,4,51
+Madhya Pradesh,Chhatarpur,6,6,51
+Madhya Pradesh,Chhindwara,6,4,51
+Madhya Pradesh,Damoh,6,4,51
+Madhya Pradesh,Datia,6,4,51
+Madhya Pradesh,Dewas,6,4,51
+Madhya Pradesh,Dhar,6,4,51
+Madhya Pradesh,Dindori,6,4,51
+Madhya Pradesh,Guna,6,4,51
+Madhya Pradesh,Gwalior,6,4,51
+Madhya Pradesh,Harda,6,5,51
+Madhya Pradesh,Hoshangabad,6,7,51
+Madhya Pradesh,Indore,7,5,51
+Madhya Pradesh,Jhabua,6,4,50
+Madhya Pradesh,Katni,6,4,51
+Madhya Pradesh,Khandwa (East Nimar),6,4,51
+Madhya Pradesh,Khargone (West Nimar),6,4,51
+Madhya Pradesh,Mandla,6,4,51
+Madhya Pradesh,Mandsaur,6,4,51
+Madhya Pradesh,Morena,6,7,51
+Madhya Pradesh,Narsimhapur,6,4,51
+Madhya Pradesh,Neemuch,6,4,51
+Madhya Pradesh,Panna,6,6,50
+Madhya Pradesh,Raisen,4,4,51
+Madhya Pradesh,Rajgarh,6,4,51
+Madhya Pradesh,Ratlam,6,4,51
+Madhya Pradesh,Rewa,6,6,51
+Madhya Pradesh,Sagar,6,4,51
+Madhya Pradesh,Satna,6,4,51
+Madhya Pradesh,Sehore,6,4,51
+Madhya Pradesh,Seoni,6,4,51
+Madhya Pradesh,Shahdol,6,4,50
+Madhya Pradesh,Sheopur,6,4,51
+Madhya Pradesh,Shivpuri,6,4,51
+Madhya Pradesh,Sidhi,6,4,51
+Madhya Pradesh,Singrauli,6,4,51
+Madhya Pradesh,Tikamgarh,6,4,50
+Madhya Pradesh,Ujjain,6,4,51
+Madhya Pradesh,Umaria,6,4,51
+Madhya Pradesh,Vidisha,6,4,51
+Maharashtra,Ahmadnagar,7,5,51
+Maharashtra,Akola,7,5,51
+Maharashtra,Amravati,7,5,51
+Maharashtra,Aurangabad,7,7,51
+Maharashtra,Bhandara,5,5,51
+Maharashtra,Bid,6,7,51
+Maharashtra,Buldana,7,5,51
+Maharashtra,Chandrapur,7,5,51
+Maharashtra,Dhule,6,7,51
+Maharashtra,Gadchiroli,4,5,51
+Maharashtra,Gondiya,4,5,51
+Maharashtra,Hingoli,7,5,51
+Maharashtra,Jalgaon,7,7,50
+Maharashtra,Jalna,7,7,51
+Maharashtra,Kolhapur,7,3,50
+Maharashtra,Latur,7,5,51
+Maharashtra,Mumbai,2,2,48
+Maharashtra,Mumbai Suburban,7,2,50
+Maharashtra,Nagpur,2,2,51
+Maharashtra,Nanded,7,7,51
+Maharashtra,Nandurbar,1,4,51
+Maharashtra,Nashik,7,7,51
+Maharashtra,Osmanabad,7,5,51
+Maharashtra,Parbhani,6,7,51
+Maharashtra,Pune,2,2,51
+Maharashtra,Raigarh,2,2,51
+Maharashtra,Ratnagiri,7,2,50
+Maharashtra,Sangli,7,2,50
+Maharashtra,Satara,7,2,51
+Maharashtra,Sindhudurg,2,2,48
+Maharashtra,Solapur,7,2,51
+Maharashtra,Wardha,5,5,51
+Maharashtra,Washim,4,7,51
+Maharashtra,Yavatmal,7,5,51
+Manipur,Bishnupur,1,1,51
+Manipur,Chandel,1,1,51
+Manipur,Churachandpur,1,1,51
+Manipur,Imphal East,1,7,51
+Manipur,Imphal West,7,2,51
+Manipur,Senapati,1,1,51
+Manipur,Tamenglong,1,1,51
+Manipur,Thoubal,1,1,51
+Manipur,Ukhrul,1,1,49
+Meghalaya,East Khasi Hills,1,1,51
+Meghalaya,Ribhoi,1,1,51
+Meghalaya,South Garo Hills,7,7,51
+Mizoram,Aizawl,7,7,51
+Mizoram,Champhai,1,7,51
+Mizoram,Kolasib,1,7,51
+Mizoram,Lawngtlai,1,1,51
+Mizoram,Lunglei,1,7,51
+Mizoram,Mamit,1,7,51
+Mizoram,Saiha,1,1,51
+Mizoram,Serchhip,7,7,51
+Nagaland,Dimapur,1,1,51
+Nagaland,Kiphire,1,1,51
+Nagaland,Kohima,1,1,51
+Nagaland,Longleng,1,1,49
+Nagaland,Mokokchung,1,1,49
+Nagaland,Mon,1,1,50
+Nagaland,Peren,1,1,51
+Nagaland,Phek,1,1,50
+Nagaland,Tuensang,1,1,51
+Nagaland,Wokha,1,1,49
+Nagaland,Zunheboto,1,1,50
+Odisha,Anugul,4,5,51
+Odisha,Balangir,4,5,51
+Odisha,Baleshwar,7,5,51
+Odisha,Bargarh,4,5,51
+Odisha,Baudh,4,5,51
+Odisha,Bhadrak,6,5,51
+Odisha,Cuttack,7,5,51
+Odisha,Debagarh,6,5,51
+Odisha,Dhenkanal,4,5,51
+Odisha,Gajapati,6,4,51
+Odisha,Ganjam,7,5,51
+Odisha,Jagatsinghapur,5,5,51
+Odisha,Jajapur,4,5,51
+Odisha,Jharsuguda,4,5,51
+Odisha,Kalahandi,6,4,51
+Odisha,Kandhamal,6,4,51
+Odisha,Kendrapara,4,5,51
+Odisha,Kendujhar,6,4,51
+Odisha,Khordha,7,5,51
+Odisha,Koraput,6,4,51
+Odisha,Malkangiri,6,4,51
+Odisha,Mayurbhanj,6,4,51
+Odisha,Nabarangapur,6,4,51
+Odisha,Nayagarh,4,5,51
+Odisha,Nuapada,4,4,51
+Odisha,Puri,5,5,51
+Odisha,Rayagada,6,4,51
+Odisha,Sambalpur,4,5,51
+Odisha,Subarnapur,4,5,51
+Odisha,Sundargarh,4,4,51
+Puducherry,Karaikal,3,3,51
+Puducherry,Mahe,3,3,51
+Puducherry,Puducherry,3,3,51
+Puducherry,Yanam,2,3,51
+Punjab,Amritsar,2,2,51
+Punjab,Barnala,2,2,51
+Punjab,Bathinda,2,2,51
+Punjab,Faridkot,5,2,51
+Punjab,Fatehgarh Sahib,2,2,51
+Punjab,Hoshiarpur,2,2,51
+Punjab,Jalandhar,2,2,51
+Punjab,Kapurthala,2,2,51
+Punjab,Ludhiana,2,2,51
+Punjab,Mansa,4,2,51
+Punjab,Moga,2,2,51
+Punjab,Muktsar,5,2,51
+Punjab,Patiala,2,2,51
+Punjab,Rupnagar,2,2,51
+Punjab,Sahibzada Ajit Singh Nagar,2,2,51
+Punjab,Sangrur,2,2,51
+Punjab,Shahid Bhagat Singh Nagar,2,2,51
+Punjab,Tarn Taran,5,2,51
+Rajasthan,Ajmer,6,4,51
+Rajasthan,Alwar,6,6,51
+Rajasthan,Banswara,6,4,51
+Rajasthan,Baran,4,4,51
+Rajasthan,Barmer,6,4,51
+Rajasthan,Bharatpur,6,6,51
+Rajasthan,Bhilwara,6,4,51
+Rajasthan,Bikaner,6,4,51
+Rajasthan,Bundi,6,4,51
+Rajasthan,Chittaurgarh,6,4,50
+Rajasthan,Churu,6,4,51
+Rajasthan,Dausa,6,4,51
+Rajasthan,Dhaulpur,6,6,51
+Rajasthan,Dungarpur,6,4,51
+Rajasthan,Ganganagar,4,5,51
+Rajasthan,Hanumangarh,6,4,51
+Rajasthan,Jaipur,6,5,51
+Rajasthan,Jaisalmer,6,4,51
+Rajasthan,Jalor,6,4,51
+Rajasthan,Jhalawar,4,4,51
+Rajasthan,Jhunjhunun,6,4,51
+Rajasthan,Jodhpur,6,4,51
+Rajasthan,Karauli,6,4,51
+Rajasthan,Kota,7,5,51
+Rajasthan,Nagaur,6,4,51
+Rajasthan,Pali,6,4,51
+Rajasthan,Pratapgarh,6,4,51
+Rajasthan,Rajsamand,6,4,51
+Rajasthan,Sawai Madhopur,6,6,51
+Rajasthan,Sikar,6,4,51
+Rajasthan,Sirohi,6,4,51
+Rajasthan,Tonk,4,4,51
+Rajasthan,Udaipur,6,4,51
+Sikkim,East District,7,2,51
+Sikkim,North  District,5,2,51
+Sikkim,South District,5,2,51
+Sikkim,West District,5,2,51
+Tamil Nadu,Ariyalur,7,3,51
+Tamil Nadu,Chennai,2,3,51
+Tamil Nadu,Coimbatore,3,3,51
+Tamil Nadu,Cuddalore,3,3,51
+Tamil Nadu,Dharmapuri,7,2,51
+Tamil Nadu,Dindigul,3,3,51
+Tamil Nadu,Erode,3,3,51
+Tamil Nadu,Kancheepuram,2,3,51
+Tamil Nadu,Kanniyakumari,3,3,51
+Tamil Nadu,Karur,3,3,51
+Tamil Nadu,Krishnagiri,3,2,51
+Tamil Nadu,Madurai,2,3,51
+Tamil Nadu,Nagapattinam,7,3,51
+Tamil Nadu,Namakkal,2,3,51
+Tamil Nadu,Perambalur,3,3,51
+Tamil Nadu,Pudukkottai,7,3,51
+Tamil Nadu,Ramanathapuram,7,3,51
+Tamil Nadu,Salem,3,3,51
+Tamil Nadu,Sivaganga,3,3,51
+Tamil Nadu,Thanjavur,3,3,51
+Tamil Nadu,Theni,7,3,51
+Tamil Nadu,The Nilgiris,3,3,51
+Tamil Nadu,Thiruvallur,3,3,51
+Tamil Nadu,Thiruvarur,3,3,51
+Tamil Nadu,Thoothukkudi,7,3,50
+Tamil Nadu,Tiruchirappalli,7,3,51
+Tamil Nadu,Tirunelveli,7,3,51
+Tamil Nadu,Tiruppur,3,3,51
+Tamil Nadu,Tiruvannamalai,7,3,51
+Tamil Nadu,Vellore,3,3,51
+Tamil Nadu,Viluppuram,7,3,51
+Tamil Nadu,Virudhunagar,1,3,51
+Tripura,Dhalai,7,7,51
+Uttarakhand,Almora,6,2,51
+Uttarakhand,Bageshwar,6,4,51
+Uttarakhand,Chamoli,6,5,51
+Uttarakhand,Champawat,6,4,51
+Uttarakhand,Dehradun,7,2,51
+Uttarakhand,Hardwar,6,2,51
+Uttarakhand,Nainital,1,2,51
+Uttarakhand,Pauri Garhwal,6,1,51
+Uttarakhand,Pithoragarh,6,5,51
+Uttarakhand,Rudraprayag,6,5,51
+Uttarakhand,Tehri Garhwal,6,4,50
+Uttarakhand,Udham Singh Nagar,6,2,51
+Uttarakhand,Uttarkashi,6,4,51
+Uttar Pradesh,Agra,6,6,51
+Uttar Pradesh,Aligarh,6,6,51
+Uttar Pradesh,Ambedkar Nagar,6,7,51
+Uttar Pradesh,Auraiya,6,4,51
+Uttar Pradesh,Azamgarh,6,7,51
+Uttar Pradesh,Baghpat,6,4,51
+Uttar Pradesh,Bahraich,6,6,50
+Uttar Pradesh,Ballia,6,6,51
+Uttar Pradesh,Balrampur,6,6,49
+Uttar Pradesh,Banda,6,6,51
+Uttar Pradesh,Bara Banki,6,6,51
+Uttar Pradesh,Bareilly,6,6,51
+Uttar Pradesh,Basti,6,6,51
+Uttar Pradesh,Bijnor,6,4,51
+Uttar Pradesh,Bulandshahr,6,4,51
+Uttar Pradesh,Chandauli,6,6,51
+Uttar Pradesh,Chitrakoot,6,6,51
+Uttar Pradesh,Deoria,6,6,51
+Uttar Pradesh,Etah,6,6,51
+Uttar Pradesh,Etawah,6,4,51
+Uttar Pradesh,Faizabad,6,7,51
+Uttar Pradesh,Farrukhabad,6,6,51
+Uttar Pradesh,Fatehpur,6,6,50
+Uttar Pradesh,Firozabad,6,6,51
+Uttar Pradesh,Gautam Buddha Nagar,6,2,51
+Uttar Pradesh,Ghazipur,6,6,51
+Uttar Pradesh,Gonda,6,6,51
+Uttar Pradesh,Gorakhpur,6,7,51
+Uttar Pradesh,Hamirpur,6,4,51
+Uttar Pradesh,Hardoi,6,6,51
+Uttar Pradesh,Jalaun,6,6,51
+Uttar Pradesh,Jaunpur,6,6,51
+Uttar Pradesh,Jhansi,6,6,51
+Uttar Pradesh,Jyotiba Phule Nagar,6,6,51
+Uttar Pradesh,Kannauj,6,6,51
+Uttar Pradesh,Kanpur Dehat,6,6,51
+Uttar Pradesh,Kanpur Nagar,6,7,51
+Uttar Pradesh,Kanshiram Nagar,6,6,51
+Uttar Pradesh,Kaushambi,6,6,51
+Uttar Pradesh,Kheri,6,6,51
+Uttar Pradesh,Kushinagar,6,6,51
+Uttar Pradesh,Lalitpur,6,6,51
+Uttar Pradesh,Lucknow,7,7,51
+Uttar Pradesh,Mahamaya Nagar,6,6,51
+Uttar Pradesh,Mahoba,6,4,51
+Uttar Pradesh,Mahrajganj,6,4,51
+Uttar Pradesh,Mainpuri,6,6,51
+Uttar Pradesh,Mathura,6,6,51
+Uttar Pradesh,Mau,6,7,51
+Uttar Pradesh,Meerut,6,2,51
+Uttar Pradesh,Mirzapur,6,6,51
+Uttar Pradesh,Pilibhit,6,6,51
+Uttar Pradesh,Pratapgarh,6,7,51
+Uttar Pradesh,Prayagraj,6,6,51
+Uttar Pradesh,Rampur,6,6,51
+Uttar Pradesh,Saharanpur,6,4,51
+Uttar Pradesh,Sant Kabir Nagar,6,4,51
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),6,6,51
+Uttar Pradesh,Shahjahanpur,6,6,51
+Uttar Pradesh,Shrawasti,6,6,51
+Uttar Pradesh,Siddharthnagar,6,6,51
+Uttar Pradesh,Sitapur,6,6,51
+Uttar Pradesh,Sonbhadra,6,6,51
+Uttar Pradesh,Unnao,6,6,51
+Uttar Pradesh,Varanasi,6,4,51
+West Bengal,Bankura,5,7,51
+West Bengal,Birbhum,5,5,51
+West Bengal,Dakshin Dinajpur,7,5,51
+West Bengal,Darjeeling,5,2,51
+West Bengal,Haora,2,2,51
+West Bengal,Hugli,5,5,51
+West Bengal,Jalpaiguri,7,5,51
+West Bengal,Koch Bihar,7,5,51
+West Bengal,Kolkata,2,2,51
+West Bengal,Maldah,6,5,51
+West Bengal,Murshidabad,7,5,51
+West Bengal,Nadia,5,5,51
+West Bengal,North Twenty Four Parganas,7,5,51
+West Bengal,Paschim Medinipur,7,7,51
+West Bengal,Purba Medinipur,7,7,51
+West Bengal,Puruliya,6,7,51
+West Bengal,South Twenty Four Parganas,6,5,51
+West Bengal,Uttar Dinajpur,6,5,51

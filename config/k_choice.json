@@ -1,0 +1,16 @@
+{
+  "k": 8,
+  "rule": "silhouette is flat across k (range 0.092-0.110, best at k=4), so k was chosen on reproducibility instead: k values with all clusters >= 15 districts = [3, 4, 5, 6, 7, 8, 9, 10]; of those, mean bootstrap ARI >= 0.6 for [3, 4, 5, 6, 7, 8]; largest unbroken run ends at k = 8 (ARI 0.64)",
+  "min_cluster_size": 15,
+  "min_stability_ari": 0.6,
+  "k_range_tested": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

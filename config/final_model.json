@@ -1,0 +1,9 @@
+{
+  "final_grouping": "kmeans_pca",
+  "k": 8,
+  "space": "pca90",
+  "algo": "kmeans",
+  "n_components": 30,
+  "pca_scores_file": "pca_scores_90.csv",
+  "selection_rule": "stability floor (ARI >= 0.6) -> held-out outcome eta-squared (ties within 0.02) -> stability -> silhouette; clusters >= 15 districts"
+}

@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "Middle development, strong clean energy",
+    "policy_focus": "Priority: girls' schooling and adult literacy; then blood pressure / blood sugar screening.",
+    "n_districts": 42
+  },
+  "1": {
+    "name": "Low development, high tobacco & alcohol use and weak maternal care",
+    "policy_focus": "Priority: tobacco and alcohol control; then antenatal care and institutional delivery.",
+    "n_districts": 53
+  },
+  "2": {
+    "name": "High development, strong clean energy",
+    "policy_focus": "Priority: blood pressure / blood sugar screening; then child feeding and supplementary nutrition.",
+    "n_districts": 101
+  },
+  "3": {
+    "name": "High development, strong schooling",
+    "policy_focus": "Priority: blood pressure / blood sugar screening.",
+    "n_districts": 51
+  },
+  "4": {
+    "name": "Middle development, weak schooling",
+    "policy_focus": "Priority: girls' schooling and adult literacy; then clean cooking fuel and electrification.",
+    "n_districts": 149
+  },
+  "5": {
+    "name": "Middle development, no standout gap",
+    "policy_focus": "No domain is significantly below the national average - maintain services.",
+    "n_districts": 104
+  },
+  "6": {
+    "name": "Low development, weak clean energy and weak civil registration",
+    "policy_focus": "Priority: clean cooking fuel and electrification; then civil registration and health insurance enrolment.",
+    "n_districts": 116
+  },
+  "7": {
+    "name": "Middle development, weak women's agency",
+    "policy_focus": "Priority: family planning access and delaying marriage; then routine immunisation and sick-child care.",
+    "n_districts": 88
+  }
+}
